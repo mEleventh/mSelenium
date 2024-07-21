@@ -1,0 +1,4 @@
+Python version: Python 3.8.1
+Chrome version: 126.0.6478.183
+ChromeDriver version: 126.0.6478.182 (r1300313)
+Operating System: Windows 11  version 23H2
